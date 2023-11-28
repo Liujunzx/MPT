@@ -11,7 +11,7 @@
 
 # ECO
 
-Matlab implementation of the Efficient Convolution Operator (ECO) tracker.
+Matlab implementation of the Efficient Convolution Operator (ECO) tracker. We are very grateful to the ECO authors for their outstanding contributions.
 
 ## Publication
 
